@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d167668b-450e-4eb4-82f5-0d85297bbcda" name="cs">
+        <fileTransfer rootFolder="/home/lixifeng/WorkSpace" accessType="SFTP" host="82.156.206.7" port="5022" sshConfigId="fa8cfcb3-d848-43bc-948f-d7d87b2dfa18" sshConfig="lixifeng@82.156.206.7:5022 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
